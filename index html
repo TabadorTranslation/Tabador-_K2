@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مؤسسة دار تبادر للترجمة | Tabador Translation Est.</title>
+    <style>
+        body { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-family: Arial; text-align: center; padding: 50px 20px; margin: 0; }
+        h1 { font-size: 2.2em; }
+        h2.en { direction: ltr; font-size: 1.6em; color: #E0E0E0; }
+        .services { margin: 30px 0; font-size: 1.1em; }
+        .btn { background: #25D366; color: white; padding: 14px 25px; border-radius: 25px; display: inline-block; margin: 10px; text-decoration: none; font-weight: bold; }
+        .btn.email { background: #EA4335; }
+    </style>
+</head>
+<body>
+    <h1>مرحبا بك في مؤسسة دار تبادر للترجمة</h1>
+    <h2 class="en">Tabador Translation Est.</h2>
+    <p>خدمات ترجمة احترافية سريعة ودقيقة</p>
+    <div class="services">
+        ترجمة معتمدة - قانونية - طبية - تجارية
+    </div>
+    <a href="https://wa.me/9665XXXXXXXX" class="btn">💬 واتساب</a>
+    <a href="mailto:tabadortranslation2@gmail.com" class="btn email">📧 tabadortranslation2@gmail.com</a>
+</body>
+</html>
